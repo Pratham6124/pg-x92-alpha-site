@@ -1,6 +1,6 @@
-let password = prompt("Enter the secret word 💕");
+let pass = prompt("Enter our favorite thing to eat hehe 💕");
 
-if (password !== "pizza") {
+if(pass !== "pizza") {
   alert("Wrong password 😝");
   window.location.href = "https://google.com";
 }
